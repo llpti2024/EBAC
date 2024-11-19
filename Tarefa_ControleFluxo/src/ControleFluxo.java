@@ -26,10 +26,10 @@ System.out.println("Você gostaria de verificar a média dos alunos ? Responda '
         System.out.println("========================================");
         System.out.println("A média do seu aluno final foi " + media );
 
-        if (media >= 5 ) {
+        if (media >= 7 ) {
+            System.out.println("Você está de APROVADO ");
+        }else if(media >=5){
             System.out.println("Você está de RECUPERAÇÃO");
-        }else if(media >=7){
-            System.out.println("Você está de APROVADO");
         }else {
             System.out.println("Você está de REPROVADO");
         }
