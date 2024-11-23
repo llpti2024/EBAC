@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package javaappaplicationDAO;
+package GUIFormExamples.src.javaappaplicationDAO;
 
-import java.util.Collection;
+import GUIFormExamples.src.javaappaplicationDomain.Cliente;
+
 import java.util.HashMap;
 import java.util.Map;
-import  javaappaplicationDomain.Cliente;
 
 public class ClienteMapDAO implements IClienteDAO {
 

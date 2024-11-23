@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package cadastroClienteSwing;
+package GUIFormExamples.src.cadastroClienteSwing;
 
-import javaappaplicationDAO.ClienteMapDAO;
-import javaappaplicationDAO.IClienteDAO;
-import javaappaplicationDomain.Cliente;
+import GUIFormExamples.src.javaappaplicationDAO.ClienteMapDAO;
+import GUIFormExamples.src.javaappaplicationDAO.IClienteDAO;
+import GUIFormExamples.src.javaappaplicationDomain.Cliente;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
