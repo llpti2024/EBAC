@@ -1,6 +1,7 @@
-package fabricadecarros;
+package interfaces;
 
 public interface CarroFabrica {
-	Carro criarSuv();
-	Carro criarSedan();
+	Carro criarSuv ( );
+
+	Carro criarSedan ( );
 }
